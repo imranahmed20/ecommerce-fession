@@ -12,10 +12,15 @@ const Categories = () => {
     return (
         <div>
             <h1>Our Categories</h1>
-            <div className="grid md:grid-cols-5 gap-5">
-                <div>
-                    <img src={image1} alt="" />
-                </div>
+            <div className="grid md:grid-cols-5 gap-5">              
+                    <div className="card w-44   bg-base-100 shadow-xl">
+                        <figure className="px-5 pt-8">
+                            <img src={image1} alt="" />
+                        </figure>
+                        <div className="card-body items-center text-center">
+                            <h2 className="card-title">Shoes!</h2>
+                        </div>
+                    </div>
                 <div>
                     <img src={image2} alt="" />
                 </div>
