@@ -3,6 +3,7 @@ import React from 'react';
 import Banner from './Banner/Banner';
 import Sponsor from './Sponsor/Sponsor';
 import Categories from './Categories/Categories';
+import Brand from './Brand/Brand';
 
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <Banner></Banner>
             <Sponsor></Sponsor>
             <Categories></Categories>
+            <Brand></Brand>
         </div>
     );
 };
