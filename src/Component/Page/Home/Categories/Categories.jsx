@@ -109,7 +109,7 @@ const Categories = () => {
                         <h2 className="card-title">Boots</h2>
                     </div>
                 </div>
-            </div>
+            </div> 
 
         </div>
     );
