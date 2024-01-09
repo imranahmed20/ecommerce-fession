@@ -4,6 +4,7 @@ import Banner from './Banner/Banner';
 import Sponsor from './Sponsor/Sponsor';
 import Categories from './Categories/Categories';
 import Brand from './Brand/Brand';
+import Selling from './Selling/Selling';
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <Sponsor></Sponsor>
             <Categories></Categories>
             <Brand></Brand>
+            <Selling></Selling>
         </div>
     );
 };
