@@ -8,11 +8,10 @@ const Navbar = () => {
             <li><a>Blog</a></li>
             <li><a>User Dashboard</a></li>
             <li><a>Contact</a></li>
-
         </>
     return (
         <div>
-            <div className="navbar bg-base-100">
+            <div className="navbar  text-white sticky" style={{ backgroundColor: '#AE1C9A' }}>
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

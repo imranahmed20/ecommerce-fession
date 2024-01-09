@@ -15,72 +15,72 @@ const Brand = () => {
     return (
         <div className='mt-16 mb-16'>
             <h1 className='text-3xl font-bold mb-8'>Brand of Prodcuts</h1>
-            <div className="grid md:grid-cols-6 gap-8">
-                <div className="card w-44   bg-cyan-50 shadow">
+            <div className="grid sm:grid-cols-2 md:grid-cols-6 gap-8">
+                <div className="card    bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image1} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card   bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image2} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44   bg-cyan-50 shadow">
+                <div className="card    bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image3} alt="" />
                     </figure>
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image4} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card  bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image5} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card   bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image6} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card  bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image7} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card   bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image8} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card   bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image9} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card   bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image10} alt="" />
                     </figure>
 
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card   bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image11} alt="" />
                     </figure>
                 </div>
-                <div className="card w-44  bg-cyan-50 shadow">
+                <div className="card  bg-cyan-50 shadow">
                     <figure className="px-5 pt-8">
                         <img src={image12} alt="" />
                     </figure>
